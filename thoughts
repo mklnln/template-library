@@ -1,0 +1,6 @@
+	shiny said stuff about boilerplate and bootstrap.
+		not sure if he meant you gotta use bootstrap for the 		
+		CSS. my preference would be styled-components but 
+		perhaps this creates an unnecessary dependency. 
+		
+	react component vid im following sugegsts doing tsx. ima stick with that for now, but it may require the user to install tsx which could be a pita
